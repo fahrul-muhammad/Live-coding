@@ -1,0 +1,33 @@
+.container {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+.cards {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.input {
+  width: 10%;
+  margin-bottom: 2%;
+  margin-top: 3%;
+}
+
+.search {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.pagination {
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
